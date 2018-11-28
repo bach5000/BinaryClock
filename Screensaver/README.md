@@ -38,7 +38,7 @@ OO	XX	XO
 
 ### Why I wrote this:
 
-I was inspired to write this program when I saw my college roommate, Ben Kinder (http://bitscape.festing.org), running a program like this on his gnome bar in Linux.  I have no idea if this is the "official" layout of a binary clock or if there even is such a thing.
+I was inspired to write this program when I saw my college roommate, Ben Kinder, running a program like this on his gnome bar in Linux.  I have no idea if this is the "official" layout of a binary clock or if there even is such a thing.
 
 
 ### How I wrote this:
