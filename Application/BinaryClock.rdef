@@ -1,5 +1,5 @@
 
-resource app_signature "application/x-vnd.BinaryClock_2.0";
+resource app_signature "application/x-vnd.BinaryClockApp";
 
 resource app_version {
 	major = 2,
@@ -10,7 +10,7 @@ resource app_version {
 	internal = 0,
 
 	short_info = "A small binary clock",
-	long_info = "Written by David Enderson (david@enderson.net)"
+	long_info = "A small binary clock"
 };
 
 resource app_flags B_MULTIPLE_LAUNCH;
