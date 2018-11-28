@@ -3,6 +3,11 @@
 
 ## by David Enderson
 
+![screenshot](screenshot1.png)
+
+### Found a Bug?
+Go to https://github.com/HaikuArchives/BinaryClock and create an issue!
+
 ### What This Is:
 A Binary Clock. And yes, you really can use this to tell time!  I have found it quite enjoyable to reprogram my brain to learn to read it at a glance.  It just takes a little getting used to.  Detailed directions on how to read it are included at the end of this file.
 
