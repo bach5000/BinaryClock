@@ -60,14 +60,3 @@ I totally rewrote it for this version, pasting only smatterings of the old code.
 * [geo] on #bedev for advice, moral support, and testing
 * Beta testers: John Strickland, Paul Tomlinson, and Brett O'Hare
 * POVRay and Becasso: for making great graphic creation and editing tools
-
-
-If you have any advice regarding this program, adapt it any way, or have better graphics to contribute PLEASE email me your contributions.  It would appreciate it greatly!  I love to get email from people who use and love it.
-
-Enjoy,
-
-David Enderson
-```
-email: david @ enderson . net
-webpage: http://david.enderson.net
-```
