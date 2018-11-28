@@ -60,15 +60,3 @@ I have given this a version number of 0.7 because I plan to:
 Revisions since version 0.3:
 * graphics added
 * streamlined
-
-I have every reason to believe this screen saver is entirely stable.  If your experience dictates otherwise, PLEASE tell me.
-
-If you have advice on any of this or adapt this program in any way, PLEASE email me the code.  It would help me greatly!
-
-Enjoy,
-
-David Enderson
-```
-email: neelix@festing.org
-webpage: http://neelix.festing.org
-```
