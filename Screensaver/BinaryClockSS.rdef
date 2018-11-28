@@ -10,8 +10,7 @@ resource app_version {
 	internal = 0,
 
 	short_info = "Binary clock screen saver",
-	long_info = "Written by David Enderson, http://neelix.festing.org,\
-		email: neelix@festing.org, more improvements will follow"
+	long_info = "Binary clock screen saver"
 };
 
 resource app_flags B_SINGLE_LAUNCH;
